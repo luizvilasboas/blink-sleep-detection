@@ -22,7 +22,7 @@ This project utilizes the MediaPipe library to implement real-time eye and mouth
 
 1. **Clone the Repository:**
    ```
-   git clone https://gitlab.com/olooeez/blink-sleep-detection.git
+   git clone https://github.com/luizvilasboas/blink-sleep-detection.git
    cd blink-sleep-detection
    ```
 
@@ -50,7 +50,7 @@ If you wish to contribute to this project, feel free to open a merge request. We
 
 ## License
 
-This project is licensed under the [MIT License](https://gitlab.com/olooeez/blink-sleep-detection/-/blob/main/LICENSE). Refer to the LICENSE file for more details.
+This project is licensed under the [MIT License](https://github.com/luizvilasboas/blink-sleep-detection/blob/main/LICENSE). Refer to the LICENSE file for more details.
 
 ## Acknowledgments
 
